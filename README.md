@@ -47,6 +47,7 @@ I restarted from scratch and defined the card using viewport units and used aspe
 
 I then continued to use percentage and viewport units to build out the child elements.
 
+```
 .qr-code {
 width: 100%;
 border-radius: 1.5vh;
@@ -62,5 +63,5 @@ font-size: 2.35vh;
 margin: 0;
 padding: 0 2.25vh;
 }
-
+```
 Now everything will scale according to the viewport size, and everything will scale at the same rate, which maintains the proportions and the overall look of the design.
