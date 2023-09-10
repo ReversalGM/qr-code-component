@@ -33,8 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 This was my first project done using pure HTML and CSS. I was able to create the card according to the design but found that it was not responsive.
@@ -65,4 +63,4 @@ margin: 0;
 padding: 0 2.25vh;
 }
 
-Now everything will scale according to the viewport size, and everything will scale at the same rate maintaing the porportions and the overall look of the design.
+Now everything will scale according to the viewport size, and everything will scale at the same rate, which maintains the proportions and the overall look of the design.
