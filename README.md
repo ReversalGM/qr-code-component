@@ -18,7 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <p float="left">
   <img align="top" src="./screenshots/qr-screenshot.png">
 </p>
-https://reversalgm.github.io/qr-code-component/
 
 ### Links
 
